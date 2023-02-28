@@ -1,0 +1,24 @@
+
+@import url('https://fonts.cdnfonts.com/css/facile-sans');
+
+
+.box{
+    width: 400px;
+    height: 400px;
+    /* background-color: sienna; */
+    margin: 10% auto;
+     
+}
+
+.box h1{
+    width: 400px;
+    height: 400px;
+    background-image: conic-gradient(from -30deg at 34% 64%,red 0deg,red 90deg, blue 90deg, blue 180deg, green 180deg,green 270deg, yellow 270deg , yellow 360deg);
+    font-size: 30em;
+    margin-top: 20px;
+    padding-bottom: 80px;
+    font-family: 'Facile Sans', sans-serif;                                          
+    background-clip: text;
+    -webkit-background-clip:text ;
+    color: transparent;
+}
